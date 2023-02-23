@@ -1,0 +1,10 @@
+controller with resource
+
+Model & controller
+php artisan make:model Todo -mcr
+
+Naming convention
+
+https://webdevetc.com/blog/laravel-naming-conventions/
+https://dev.to/dalelantowork/php-laravel-8-best-naming-conventions-for-apis-23i0
+
